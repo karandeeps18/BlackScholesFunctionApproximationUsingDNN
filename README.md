@@ -1,3 +1,10 @@
-# OptionpricingUsingDNN
-We are performing an experiment to check if the machine learning models can learn BlackScholes option pricing PDE. It is a classical function approximation problem. We are treating the option as plain European option and the model is initially trained on synthetic BS-call-option data. 
-<object data="FunctionApproximationUsingDLL.pdf" width="1000" height="1000" type='application/pdf'/>
+![Description of Image](https://github.com/karandeeps18/BlackScholesFunctionApproximationUsingDNN/blob/main/image/FunctionApproximationUsingDLL-01.png?raw=true)
+![Description of Image](https://github.com/karandeeps18/BlackScholesFunctionApproximationUsingDNN/blob/main/image/FunctionApproximationUsingDLL-02.png?raw=true)
+![Description of Image](https://github.com/karandeeps18/BlackScholesFunctionApproximationUsingDNN/blob/main/image/FunctionApproximationUsingDLL-03.png?raw=true)
+![Description of Image](https://github.com/karandeeps18/BlackScholesFunctionApproximationUsingDNN/blob/main/image/FunctionApproximationUsingDLL-04.png?raw=true)
+![Description of Image](https://github.com/karandeeps18/BlackScholesFunctionApproximationUsingDNN/blob/main/image/FunctionApproximationUsingDLL-05.png?raw=true)
+![Description of Image](https://github.com/karandeeps18/BlackScholesFunctionApproximationUsingDNN/blob/main/image/FunctionApproximationUsingDLL-06.png?raw=true)
+![Description of Image](https://github.com/karandeeps18/BlackScholesFunctionApproximationUsingDNN/blob/main/image/FunctionApproximationUsingDLL-07.png?raw=true)
+![Description of Image](https://github.com/karandeeps18/BlackScholesFunctionApproximationUsingDNN/blob/main/image/FunctionApproximationUsingDLL-08.png?raw=true)
+![Description of Image](https://github.com/karandeeps18/BlackScholesFunctionApproximationUsingDNN/blob/main/image/FunctionApproximationUsingDLL-09.png?raw=true)
+![Description of Image](https://github.com/karandeeps18/BlackScholesFunctionApproximationUsingDNN/blob/main/image/FunctionApproximationUsingDLL-10.png?raw=true)
